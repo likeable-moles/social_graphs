@@ -8,5 +8,6 @@ formed in social networks. To do this, I wrote a program to randomly generate ve
 and test for the appearance of hierarchy. In this simple experiment, a model of a growing social network does
 tend toward hierarchy. We don't have to take this fatalistically. It may show that if we value equality, it takes
 conscious effort and planning to distribute influence and counteract the inequalities in hierarchy.
+I describe the work in [Are Social Networks Naturally Hierarchical?](report/hierarchy_in_social_networks.pdf).
 
 
