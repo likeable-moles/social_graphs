@@ -1,7 +1,7 @@
 
 # Social Graphs
 
-After a reading group session on _Neither Vertical Nor Horizontal_by Rodrigo Nunes, our group had a discussion about
+After a reading group session on _Neither Vertical Nor Horizontal_ by Rodrigo Nunes, our group had a discussion about
 whether hierarchy was "natural" and what hierarchy is. I wanted to study if it was true that hierarchies naturally
 formed in social networks. To do this, I wrote a program to randomly generate vertex-edge graphs using 
 [Price's Model](https://en.wikipedia.org/wiki/Price%27s_model)
